@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">via_android_03</string>
+    <string-array name="Themes_array">
+        <item>Default</item>
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
+    </string-array>
+
+</resources>

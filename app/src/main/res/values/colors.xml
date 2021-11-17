@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="teal_700">#FF018786</color>
+    <color name="deep_jungle_green">#FF005357</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="light_gray">#FFCED4D4</color>
+    <color name="blue_crayola">#FFADB5BD</color>
+    <color name="slate_gray">#FF6C757D</color>
+
+
+    <color name="rich_black">#FF0D0A0B</color>
+    <color name="turquoise">#FF72EFDD</color>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Activity_name">Activity 1-st</string>
+    <string name="Text1">Select App Theme:</string>
+    <string name="Text2">Input your text below:</string>
+    <string name="Activity_name2">Activity 2-nd</string>
+    <string name="Button1">Save</string>
+    <string name="Button2">Go to 2-nd</string>
+    <string name="Button3">Read Preferences</string>
+    <string name="Button4">Back</string>
+
+
+
+
+
+
+
+</resources>
